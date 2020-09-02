@@ -30,6 +30,8 @@ github_username:  idontremembermygithubrightnow
 author: Alana Sendlakowski
 
 # Build settings
+# removed minima theme becasuse it is now a regular theme (I copy and pasted minima theme 
+# framework into workspace so I can play with it)
 theme: minima
 plugins:
   - jekyll-feed
