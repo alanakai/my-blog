@@ -30,7 +30,7 @@ github_username:  idontremembermygithubrightnow
 author: Alana Sendlakowski
 
 # Build settings
-theme: jekyll-theme-leap-day
+theme: minima
 plugins:
   - jekyll-feed
 
