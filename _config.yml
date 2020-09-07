@@ -24,10 +24,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my blog site where. I will be updating every sunday of my senior year, so get excited!
 baseurl: "/my-blog" # the subpath of your site, e.g. /blog
 url: "https://alanakai.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: idonthaveatwitter
-github_username:  idontremembermygithubrightnow
+github_username:  alanakai
 # creating default author for all posts
 author: Alana Sendlakowski
+instagram_username: alanaakai
 
 # Build settings
 # removed minima theme becasuse it is now a regular theme (I copy and pasted minima theme 
